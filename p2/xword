@@ -1,0 +1,1 @@
+grep ^$1$ /home/Grantas/cs240/p2/words | pr -$2

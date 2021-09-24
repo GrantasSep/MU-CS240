@@ -1,0 +1,1 @@
+du -a /home | grep $1
